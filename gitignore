@@ -1,0 +1,9 @@
+# Never commit credentials or secrets
+*.env
+.env
+credentials.json
+secrets.json
+
+# OS files
+.DS_Store
+Thumbs.db
